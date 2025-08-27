@@ -1,22 +1,8 @@
-AZUL MAGALI MARTINEZ AGUILAR
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“Se agrega archivo de datos” 
+La IA actualmente ha pasado a formar parte de nuestro día a día, cada vez se vuelve un modo de vida, por ellos es impotante aprender y adaprtanos a ella.
+En el ámbito de la ingeniería es una herramienta bsstante valiosa, que aprendiendolo a usar nos puede llevar muchos avances. Con ella podemos realizar procesos 
+de una manera más eficaz y rápida,que tal vez en otro momento nos hubiese llevado más tiempo realizaralos. 
+Recientemente salió a la luz una investigación sumamente interesante, donde se menciona que la IA logró hacer un análisis del volcan Popocatepetl, 
+con ayuda de 18 estaciones,las cuales procesan demasiados de datos. Gracias a la IA estos datos se pudieron procesar en 3 meses lo cuál para ingenieros geologos hubiera tomado 1 año.
+Justo este caso sirve perfectamente como questra de como usando las herramientas adecuadas, trabajando de manera correcta con la IA y aprovechando todos sus recursos.
+nos puede venificiar acortando análisis,cuentas, cálculos, etc. Promoviendo avances en la tecnología y desarrolladno nuevas investigaciones.
+En nuestra ingenieria, eléctrica electronica, realizando algoritmos de aprendizaje puede predecir fallas en un sistema o realizar circuitos de complejidad.
